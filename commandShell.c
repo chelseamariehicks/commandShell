@@ -1,9 +1,5 @@
 /**********************************************************************************
  * Name: Chelsea Marie Hicks
- * ONID 931286984
- * Course: CS 344
- * Assignment: Assignment #2
- * Due Date: July 21, 2020 by 11:59 PM
  * 
  * Description: Program creates a shell in C to run command line instructions and
  *      return results similar to other familiar shells like bash and Bourne. This
